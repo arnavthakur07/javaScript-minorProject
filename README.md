@@ -8,9 +8,8 @@ A fun and interactive Stone-Paper-Scissors game where players can compete agains
 🏆 Displays the winner of each round
 📊 Keeps track of scores (Player vs Computer)
 📱 Responsive design (works on desktop & mobile)
+
+
 🛠️ Tech Stack
-
-
 Frontend: HTML, CSS, JavaScript
-(Optional) If you used React: React + Hooks + CSS
-(Optional) If you used Node.js: Express.js
+
